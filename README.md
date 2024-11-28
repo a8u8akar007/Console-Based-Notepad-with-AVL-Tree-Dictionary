@@ -32,7 +32,13 @@ This project is ideal for understanding AVL Trees' practical applications and de
 ### **1. Prerequisites**
 - **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., `g++`).
 - **Ncurses Library**: Required for the terminal UI.
+### **2. Compile the Program**  
+- **To compile the project, run:** `g++ -o dictionary main.cpp -lncurses`
+### **3.Run The Program**  
+- **After compiling, you can run the program with the following command:** `./dictionary`
 
-To install Ncurses (Linux):
+  To install Ncurses (Linux):
 ```bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
+
+
