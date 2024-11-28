@@ -1,6 +1,6 @@
 # **AVL Tree-Based Notepad with Spell Checker**
 
-## **Project Overvie**
+## **Project Overview**
 This project implements a console-based notepad application that features a spell checker powered by an AVL tree. The notepad allows users to type and edit text, check spelling, load and save text from a file, and edit the text interactively. The spell checker matches user-typed words against an AVL tree dictionary and suggests corrections using various techniques like letter substitution, omission, insertion, and reversal if a word is misspelled.
 
 ## **Key Features**
